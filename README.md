@@ -8,7 +8,7 @@ A Flask web application has been developed to allow users to input data through 
 
 The project consists of the following components:
 
- 1.Dataset: A CSV file containing car data.
+ 1. Dataset: A CSV file containing car data.
 
  2. Data Processing: Filtering relevant numerical features based on correlation with car price.
 
